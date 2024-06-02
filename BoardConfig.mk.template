@@ -1,7 +1,7 @@
 USE_CAMERA_STUB := true
 
 # inherit from the proprietary version
--include vendor/__MANUFACTURER__/__DEVICE__/BoardConfigVendor.mk
+-include vendor/tct/YarisL_GSM/BoardConfigVendor.mk
 
 TARGET_ARCH := arm
 TARGET_NO_BOOTLOADER := true
