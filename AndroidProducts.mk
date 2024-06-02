@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/deviceYarisL_GSM.mk
+    $(LOCAL_DIR)/device_YarisL_GSM.mk
