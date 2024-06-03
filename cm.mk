@@ -11,5 +11,5 @@ $(call inherit-product, device/TCT/YarisL_GSM/device_YarisL_GSM.mk)
 PRODUCT_DEVICE := YarisL_GSM
 PRODUCT_NAME := cm_YarisL_GSM
 PRODUCT_BRAND := TCT
-PRODUCT_MODEL := YarisL_GSM
+PRODUCT_MODEL := 5036D
 PRODUCT_MANUFACTURER := TCT
