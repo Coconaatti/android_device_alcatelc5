@@ -7,6 +7,9 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 # Inherit device configuration
 $(call inherit-product, device/TCT/YarisL_GSM/device_YarisL_GSM.mk)
 
+TARGET_SCREEN_HEIGHT := 854
+TARGET_SCREEN_WIDTH := 480
+
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := YarisL_GSM
 PRODUCT_NAME := cm_YarisL_GSM
